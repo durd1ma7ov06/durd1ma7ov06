@@ -2,9 +2,9 @@
 <!-- GitHub dark rejimda dark.svg, light rejimda light.svg ni o'zi ko'rsatadi -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/light.svg">
-  <img alt="Vafoyev — Full-Stack | IoT | Drone Systems Developer" src="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/light.svg">
+  <img alt="Vafoyev — Full-Stack | IoT | Drone Systems Developer" src="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/light.svg">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
@@ -18,9 +18,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/stats-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/stats-light.svg" />
-  <img width="100%" alt="GitHub statistics" src="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/stats-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/stats-light.svg" />
+  <img width="100%" alt="GitHub statistics" src="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/stats-light.svg" />
 </picture>
 
 </div>
@@ -30,9 +30,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/snake-light.svg" />
-  <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/snake-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/snake-light.svg" />
+  <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/snake-light.svg" />
 </picture>
 
 </div>
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Telegram-0A101F?style=for-the-badge&logo=telegram&logoColor=A78BFA&labelColor=0A101F" alt="Telegram" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Vafoyev">
+<a href="https://github.com//durd1ma7ov06">
   <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=0A101F" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
