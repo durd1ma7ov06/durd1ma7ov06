@@ -2,9 +2,9 @@
 <!-- GitHub dark rejimda dark.svg, light rejimda light.svg ni o'zi ko'rsatadi -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/light.svg">
-  <img alt="Mansur Durdimatov — Full-Stack | AI Researcher | IoT Systems Developer" src="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/light.svg">
+  <img alt="Vafoyev — Full-Stack | IoT | Drone Systems Developer" src="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/light.svg">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
@@ -18,9 +18,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/stats-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/stats-light.svg" />
-  <img width="100%" alt="GitHub statistics" src="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/stats-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/stats-light.svg" />
+  <img width="100%" alt="GitHub statistics" src="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/stats-light.svg" />
 </picture>
 
 </div>
@@ -30,9 +30,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/snake-light.svg" />
-  <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/snake-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/snake-light.svg" />
+  <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/snake-light.svg" />
 </picture>
 
 </div>
@@ -65,19 +65,19 @@
   <img src="https://img.shields.io/badge/Telegram-0A101F?style=for-the-badge&logo=telegram&logoColor=A78BFA&labelColor=0A101F" alt="Telegram" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/durd1ma7ov06">
+<a href="https://github.com/Vafoyev">
   <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=0A101F" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:EMAIL_MANZILINGIZ">
+<a href="mailto:isobekvafoyev9@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
 &nbsp;&nbsp;
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=durd1ma7ov06&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/durd1ma7ov06?style=for-the-badge&color=22D3EE&labelColor=0A101F&logo=github" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=Vafoyev&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/durd1ma7ov06/?style=for-the-badge&color=22D3EE&labelColor=0A101F&logo=github" alt="Followers" />
 
 </div>
 
