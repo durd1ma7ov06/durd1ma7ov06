@@ -1,90 +1,84 @@
-<div align="center">
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<!-- GitHub dark rejimda dark.svg, light rejimda light.svg ni o'zi ko'rsatadi -->
 
-  <!-- Custom Header -->
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=3ECF8E&text=MANSUR%20DURDIMATOV&fontSize=50&height=120&animation=fadeIn" width="100%" alt="Mansur Durdimatov" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/light.svg">
+  <img alt="Vafoyev — Full-Stack | IoT | Drone Systems Developer" src="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/light.svg">
+</picture>
 
-  <p align="center">
-    <b>Full-Stack Developer &bull; IoT & Drone Systems Engineer &bull; Robotics Enthusiast</b>
-  </p>
+<!-- ===== GITHUB STATS ===== -->
 
-  <p align="center">
-    <a href="https://github.com/durd1ma7ov06">
-      <img src="https://img.shields.io/badge/GitHub-durd1ma7ov06-181717?style=flat-square&logo=github" alt="GitHub" />
-    </a>
-    <img src="https://img.shields.io/badge/Location-Uzbekistan%20🇺🇿-0f172a?style=flat-square" alt="Location" />
-    <img src="https://komarev.com/ghpvc/?username=durd1ma7ov06&color=3ecf8e&style=flat-square&label=Profile%20Views" alt="Views" />
-  </p>
-
-</div>
-
----
-
-### ⚡ Qisqacha / Quick Overview
-
-Men apparat ta'minoti (**Hardware / IoT / Dronlar**) va zamonaviy dasturiy ta'minot (**Full-Stack Web & Backend**) chorrahasida ishlaydigan muhandisman. Datchiklardan tortib yuqori yuklamali veb-platformalargacha bo'lgan to'liq zanjirni ishlab chiqishga ixtisoslashganman.
-
-- 🛸 **Dron & IoT Tizimlari:** C++, Arduino, ESP32, Raspberry Pi, telemetriya va avtonom parvoz boshqaruvi.
-- 💻 **Backend & Web:** Node.js, TypeScript, Java, Python, PostgreSQL, Supabase, REST va WebSockets.
-- 🎯 **Fokus:** Tezkor, ishonchli va apparat bilan to'liq integratsiyalashgan arxitekturalar yaratish.
-
----
-
-### 🛠️ Texnologiyalar & Vositalar (Skills & Tools)
+<!--
+  Stats kartasi make_stats.py tomonidan yasaladi va .github/workflows/stats.yml
+  orqali har kuni yangilanadi. Tashqi servisga bog'liq emas — github-readme-stats
+  ommaviy nusxasi o'chirilgan (503), streak-stats esa <img> ichida ko'rinmaydi.
+-->
 
 <div align="center">
 
-| Yo'nalish | Texnologiyalar |
-| :--- | :--- |
-| **Dasturlash Tillari** | `C++` `C` `TypeScript` `JavaScript` `Python` `Java` `SQL` |
-| **Backend & Web** | `Node.js` `Express` `PostgreSQL` `Supabase` `WebSocket` `REST APIs` |
-| **Hardware & IoT** | `Arduino` `ESP32` `Raspberry Pi` `STM32` `Flight Controllers` `Sensors` |
-| **DevOps & Asboblar** | `Linux / Ubuntu` `Git` `GitHub` `Docker` `VS Code` `Postman` |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/stats-light.svg" />
+  <img width="100%" alt="GitHub statistics" src="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/stats-light.svg" />
+</picture>
 
 </div>
 
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/snake-light.svg" />
+  <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/snake-light.svg" />
+</picture>
+
+</div>
+
+<!-- ===== END SNAKE ===== -->
+<br/>
 <br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,python,java,nodejs,postgres,supabase,arduino,raspberrypi,linux,docker,git&perline=7" />
-</p>
-
----
-
-### 📊 GitHub Faolligi (GitHub Analytics)
+<!-- ===== FEATURED PROJECTS ===== -->
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=durd1ma7ov06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3ecf8e&icon_color=3ecf8e&text_color=94a3b8" width="100%" alt="Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durd1ma7ov06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3ecf8e&text_color=94a3b8" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=durd1ma7ov06&theme=tokyonight&hide_border=true&background=0d1117&ring=3ecf8e&fire=3ecf8e&currStreakLabel=3ecf8e" width="98%" alt="Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/projects-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/projects-light.svg" />
+  <img width="100%" alt="Featured projects" src="https://raw.githubusercontent.com/Vafoyev/Vafoyev/main/projects-light.svg" />
+</picture>
 
 </div>
 
----
-
-### 📬 Aloqa (Get in Touch)
-
+<!-- ===== SOCIAL BADGES ===== -->
+<br/>
 <div align="center">
 
-<a href="https://t.me/durd1ma7ov">
-  <img src="https://img.shields.io/badge/Telegram-@durd1ma7ov-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+<a href="https://linkedin.com/in/LINKEDIN_NICK">
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0A101F" alt="LinkedIn" />
 </a>
-&nbsp;
-<a href="mailto:durdimatovmansur6@gmail.com">
-  <img src="https://img.shields.io/badge/Email-durdimatovmansur6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+&nbsp;&nbsp;
+<a href="https://t.me/TELEGRAM_NICK">
+  <img src="https://img.shields.io/badge/Telegram-0A101F?style=for-the-badge&logo=telegram&logoColor=A78BFA&labelColor=0A101F" alt="Telegram" />
 </a>
-&nbsp;
-<a href="https://github.com/durd1ma7ov06">
-  <img src="https://img.shields.io/badge/GitHub-durd1ma7ov06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+&nbsp;&nbsp;
+<a href="https://github.com/Vafoyev">
+  <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=0A101F" alt="GitHub" />
 </a>
+&nbsp;&nbsp;
+<a href="mailto:isobekvafoyev9@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+&nbsp;&nbsp;
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Vafoyev&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Vafoyev?style=for-the-badge&color=22D3EE&labelColor=0A101F&logo=github" alt="Followers" />
 
 </div>
+
+<!-- ===== END SOCIAL BADGES ===== -->
