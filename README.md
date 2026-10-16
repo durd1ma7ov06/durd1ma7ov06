@@ -11,55 +11,7 @@
 
 </div>
 
-<br/>
 
-<!-- ===== EARNED GITHUB ACHIEVEMENTS ===== -->
-
-<div align="center">
-
-<table align="center" style="border: none; background: transparent;">
-  <tr>
-    <td align="center" width="120" style="border: none;">
-      <a href="https://github.com/durd1ma7ov06/github-achievements/pulls?q=is%3Apr+is%3Amerged">
-        <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark x2" />
-        <br />
-        <sub><b>Pull Shark</b> <code>x2</code></sub>
-      </a>
-    </td>
-    <td align="center" width="120" style="border: none;">
-      <a href="https://github.com/durd1ma7ov06/github-achievements/issues/1">
-        <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" alt="Quickdraw" />
-        <br />
-        <sub><b>Quickdraw</b></sub>
-      </a>
-    </td>
-    <td align="center" width="120" style="border: none;">
-      <a href="https://github.com/durd1ma7ov06/github-achievements/pull/2">
-        <img src="https://github.githubassets.com/assets/yolo-default-be1bbff42e13.png" width="80" alt="YOLO" />
-        <br />
-        <sub><b>YOLO</b></sub>
-      </a>
-    </td>
-    <td align="center" width="120" style="border: none;">
-      <a href="https://github.com/durd1ma7ov06/github-achievements/pull/3">
-        <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-73932e65d064.png" width="80" alt="Pair Extraordinaire" />
-        <br />
-        <sub><b>Pair Extraordinaire</b></sub>
-      </a>
-    </td>
-    <td align="center" width="120" style="border: none;">
-      <a href="https://github.com/durd1ma7ov06/github-achievements/discussions/5">
-        <img src="https://github.githubassets.com/assets/galaxy-brain-default-35f992a83232.png" width="80" alt="Galaxy Brain" />
-        <br />
-        <sub><b>Galaxy Brain</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
 
 <!-- ===== CORE STACKS: FRONTEND & HUMANOID ROBOTICS ===== -->
 
