@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Mansur Durdimatov (@durd1ma7ov06) — Cyberpunk Theme-Aware Profile Generator.
+With Humanoid Robotics, Drone Systems, AI and Full-Stack Engineering.
 Generates:
-  - dark.svg / light.svg (Hero Banner)
+  - dark.svg / light.svg (Hero Banner with Humanoid Robot & Drone)
   - projects-dark.svg / projects-light.svg (Featured Projects Matrix)
 """
 
@@ -13,8 +14,8 @@ import os
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 NAME = "MANSUR DURDIMATOV"
-TAGLINE = "Full-Stack Dev 💻 | IoT & Drone Engineer 🛸 | AI Systems"
-SUBLINE = "Engineering intelligent platforms, hardware systems and scalable architectures"
+TAGLINE = "Full-Stack Dev 💻 | Drone & Humanoid Robotics Engineer 🤖 | AI Systems"
+SUBLINE = "Engineering humanoid bipedal robotics, autonomous UAV drones & intelligent AI systems"
 
 PALETTES = {
     "dark": {
@@ -34,7 +35,7 @@ PALETTES = {
 SANS = "'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif"
 MONO = "ui-monospace,'SFMono-Regular',Menlo,Consolas,monospace"
 
-HERO_CHIPS = ["TypeScript", "Node.js", "Python", "React", "PostgreSQL", "C++", "IoT & Dron", "Docker", "AWS"]
+HERO_CHIPS = ["Humanoid Robotics", "ROS / ROS 2", "Autonomous Drone", "Python", "C++", "Inverse Kinematics", "TypeScript", "Computer Vision", "Docker"]
 
 ICONS = {
     "car": '<path d="M4 11.5 6 6.2A2.5 2.5 0 0 1 8.4 4.5h7.2A2.5 2.5 0 0 1 18 6.2l2 5.3"/>'
@@ -64,28 +65,31 @@ ICONS = {
     "shield": '<path d="M12 3.2l8 3v5.9c0 4.4-3.2 7.9-8 8.7-4.8-.8-8-4.3-8-8.7V6.2z"/>'
               '<path d="M9 12l2.2 2.2L15.2 10"/>',
     "zap": '<polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/>',
-    "bot": '<rect x="3" y="11" width="18" height="10" rx="2"/><circle cx="12" cy="5" r="2"/>'
-           '<path d="M12 7v4M8 16h.01M16 16h.01"/>',
+    "bot": '<rect x="4" y="9" width="16" height="12" rx="3"/><circle cx="12" cy="4" r="2"/>'
+           '<path d="M12 6v3M8 14h.01M16 14h.01M9 18h6"/>',
+    "humanoid": '<circle cx="12" cy="4" r="2.5"/><path d="M12 6.5v7M7 9h10M8.5 13.5l-2.5 7.5M15.5 13.5l2.5 7.5M6 9l-2 5M18 9l2 5"/>',
     "hands": '<path d="M18 11V6a2 2 0 0 0-4 0v5M14 10V4a2 2 0 0 0-4 0v7M10 10.5V6a2 2 0 0 0-4 0v8"/>'
              '<path d="M6 14v1a6 6 0 0 0 6 6h1a6 6 0 0 0 6-6V9a2 2 0 0 0-4 0"/>',
 }
 
 SECTIONS = [
-    ("AI & HEALTHCARE INNOVATIONS", "cyan", [
-        ("medkit",   "pnevmoscan",    "AI pnevmoniya & rentgen tashxisi",   "Python · FastAPI · OpenCV"),
-        ("sparkles", "Maqola_agent",  "Avtomatlashtirilgan ilmiy maqolalar", "Python · LLM · AI Agent"),
-        ("hands",    "motion",        "3D qo'l va imo-ishoralarni aniqlash", "JavaScript · MediaPipe · 3D"),
+    ("HUMANOID ROBOTICS, DRONES & EMBEDDED", "purple", [
+        ("humanoid", "Humanoid Bipedal Core", "Muvozanat & Inverse Kinematics",  "ROS 2 · C++ · Gazebo · IK"),
+        ("drone",    "Autonomous Drone UAV",  "LiDAR, to'siqdan qochish & parvoz", "PX4 · ArduPilot · MAVLink"),
+        ("bot",      "Bionic Manipulator",    "6-eksa robot qo'l & servo boshqaruv","ESP32 · Inverse Kinematics"),
+        ("hands",    "motion 3D Tracking",    "3D qo'l imo-ishoralarini robotga uzatish","MediaPipe · Three.js · JS"),
+        ("zap",      "Voltguard IoT",         "Aqlli energiya monitoringi & himoya","IoT · ESP32 · C++"),
+        ("server",   "Teahouse Combinator",   "Aqlli telemetriya & avtomatlashtirish","IoT · Node.js · C++"),
     ]),
-    ("IoT, HARDWARE & DRONE SYSTEMS", "purple", [
-        ("zap",    "Voltguard",             "Aqlli energiya monitoringi & himoya", "IoT · ESP32 · C++"),
-        ("drone",  "Drone Telemetry",       "Dron parvoz & telemetriya tizimi",    "C++ · Python · MAVLink"),
-        ("chip",   "Teahouse Combinator",   "Aqlli telemetriya & avtomatlashtirish","IoT · Node.js · C++"),
+    ("AI, COMPUTER VISION & PLATFORMS", "cyan", [
+        ("medkit",   "pnevmoscan AI",         "Pnevmoniya & rentgen AI tashxisi",   "Python · FastAPI · PyTorch"),
+        ("sparkles", "Maqola_agent",          "Avtomatlashtirilgan ilmiy maqolalar", "Python · LLM · AI Agent"),
+        ("school",   "MockLife Platform",     "IELTS & CEFR AI imtihon simulyatori", "TypeScript · React · Postgres"),
     ]),
-    ("EDTECH & WEB PLATFORMS", "green", [
-        ("school", "MockLife Platform",  "IELTS & CEFR AI imtihon platformasi", "TypeScript · React · Postgres"),
-        ("globe",  "Digital-edu",        "Raqamli texnologiyalar ta'lim portali","React · Tailwind · Node.js"),
-        ("server", "Muhtojman",          "Xayriya va ijtimoiy ko'mak tizimi",    "Full-Stack · JavaScript"),
-        ("bot",    "Ittifoq-Boti",       "Telegram avtomatlashtirilgan boti",    "Node.js · Telegram API"),
+    ("WEB, CLOUD & BOT ECOSYSTEM", "green", [
+        ("globe",    "Digital-edu",           "Raqamli texnologiyalar ta'lim portali","React · Tailwind · Node.js"),
+        ("server",   "Muhtojman",             "Xayriya va ijtimoiy ko'mak tizimi",    "Full-Stack · JavaScript"),
+        ("bot",      "Ittifoq-Boti",          "Telegram avtomatlashtirilgan boti",    "Node.js · Telegram API"),
     ]),
 ]
 
@@ -106,8 +110,8 @@ def icon(name, x, y, size, color, sw=2.0):
             'stroke-width="%.2f" stroke-linecap="round" stroke-linejoin="round">%s</g>'
             % (x, y, k, color, sw / k, ic_data))
 
-def chip(x, y, label, p, h=34, fs=14, pad=15):
-    w = int(len(label) * fs * 0.60) + pad * 2
+def chip(x, y, label, p, h=34, fs=13.5, pad=14):
+    w = int(len(label) * fs * 0.58) + pad * 2
     s = ('<rect x="%d" y="%d" width="%d" height="%d" rx="%d" fill="%s" stroke="%s"/>'
          '<text x="%d" y="%d" font-family="%s" font-size="%d" fill="%s">%s</text>'
          % (x, y, w, h, h // 2, p["chip_bg"], p["border"],
@@ -122,9 +126,9 @@ def defs(p):
         '<stop offset="100%%" stop-color="%s"/></linearGradient>'
         '<linearGradient id="bgfade" x1="0" y1="0" x2="1" y2="1">'
         '<stop offset="0%%" stop-color="%s"/><stop offset="100%%" stop-color="%s"/></linearGradient>'
-        '<radialGradient id="glowC"><stop offset="0%%" stop-color="%s" stop-opacity="0.30"/>'
+        '<radialGradient id="glowC"><stop offset="0%%" stop-color="%s" stop-opacity="0.32"/>'
         '<stop offset="100%%" stop-color="%s" stop-opacity="0"/></radialGradient>'
-        '<radialGradient id="glowP"><stop offset="0%%" stop-color="%s" stop-opacity="0.26"/>'
+        '<radialGradient id="glowP"><stop offset="0%%" stop-color="%s" stop-opacity="0.28"/>'
         '<stop offset="100%%" stop-color="%s" stop-opacity="0"/></radialGradient>'
         '<pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">'
         '<path d="M34 0H0V34" fill="none" stroke="%s" stroke-width="1" stroke-opacity="0.55"/>'
@@ -156,19 +160,63 @@ def neon_avatar(cx, cy, r, p, b64):
     o.append('</g>')
     return "".join(o)
 
-def drone_icon(cx, cy, p):
+def humanoid_and_drone_illustration(cx, cy, p):
+    """Futuristic Cyberpunk Humanoid Robot + Autonomous Drone Illustration."""
     return (
         '<g transform="translate(%d,%d)">'
-        '<circle cx="0" cy="0" r="45" fill="url(#glowP)" opacity="0.8"/>'
-        '<rect x="-18" y="-18" width="36" height="36" rx="8" fill="%s" stroke="%s" stroke-width="2"/>'
-        '<path d="-30 -30 L 30 30 M -30 30 L 30 -30" stroke="%s" stroke-width="3"/>'
-        '<circle cx="-30" cy="-30" r="14" fill="none" stroke="%s" stroke-width="2"/>'
-        '<circle cx="30" cy="-30" r="14" fill="none" stroke="%s" stroke-width="2"/>'
-        '<circle cx="-30" cy="30" r="14" fill="none" stroke="%s" stroke-width="2"/>'
-        '<circle cx="30" cy="30" r="14" fill="none" stroke="%s" stroke-width="2"/>'
-        '<circle cx="0" cy="0" r="6" fill="%s"/>'
+        '  <circle cx="0" cy="0" r="105" fill="url(#glowP)" opacity="0.7"/>'
+        '  <!-- ================= HUMANOID ROBOT HEAD & CHEST ================= -->'
+        '  <!-- Humanoid Torso / Shoulders -->'
+        '  <path d="M-60 85 L60 85 L48 42 L-48 42 Z" fill="%s" stroke="%s" stroke-width="2"/>'
+        '  <!-- Core Chest Arc Reactor -->'
+        '  <circle cx="0" cy="62" r="14" fill="%s" opacity="0.2"/>'
+        '  <circle cx="0" cy="62" r="8" fill="%s"/>'
+        '  <circle cx="0" cy="62" r="12" fill="none" stroke="%s" stroke-width="1.5" stroke-dasharray="3 3"/>'
+        '  <!-- Robot Neck Servos -->'
+        '  <rect x="-14" y="22" width="28" height="20" rx="3" fill="%s" stroke="%s" stroke-width="1.5"/>'
+        '  <line x1="-8" y1="26" x2="-8" y2="38" stroke="%s" stroke-width="2"/>'
+        '  <line x1="8" y1="26" x2="8" y2="38" stroke="%s" stroke-width="2"/>'
+        '  <!-- Robot Head / Helmet -->'
+        '  <polygon points="-32,-42 32,-42 42,-8 28,24 -28,24 -42,-8" fill="%s" stroke="%s" stroke-width="2.5"/>'
+        '  <!-- Cybernetic Eye Visor (Glowing Cyan) -->'
+        '  <polygon points="-26,-14 26,-14 22,-4 -22,-4" fill="%s" filter="drop-shadow(0 0 6px %s)"/>'
+        '  <line x1="-24" y1="-9" x2="24" y2="-9" stroke="#FFFFFF" stroke-width="1.2" opacity="0.8"/>'
+        '  <!-- Temple Armor & Audio Sensors -->'
+        '  <rect x="-47" y="-22" width="6" height="18" rx="2" fill="%s" stroke="%s" stroke-width="1.5"/>'
+        '  <rect x="41" y="-22" width="6" height="18" rx="2" fill="%s" stroke="%s" stroke-width="1.5"/>'
+        '  <!-- Forehead Sensor Array -->'
+        '  <circle cx="0" cy="-30" r="3.5" fill="%s"/>'
+        '  <circle cx="-12" cy="-30" r="2" fill="%s"/>'
+        '  <circle cx="12" cy="-30" r="2" fill="%s"/>'
+        '  <!-- ================= AUTONOMOUS QUADCOPTER DRONE ================= -->'
+        '  <g transform="translate(68,-58)">'
+        '    <!-- Drone Glow -->'
+        '    <circle cx="0" cy="0" r="28" fill="url(#glowC)" opacity="0.8"/>'
+        '    <!-- Drone Arms -->'
+        '    <line x1="-22" y1="-22" x2="22" y2="22" stroke="%s" stroke-width="2.5"/>'
+        '    <line x1="-22" y1="22" x2="22" y2="-22" stroke="%s" stroke-width="2.5"/>'
+        '    <!-- Drone Center Fuselage -->'
+        '    <rect x="-11" y="-11" width="22" height="22" rx="5" fill="%s" stroke="%s" stroke-width="2"/>'
+        '    <circle cx="0" cy="0" r="4.5" fill="%s"/>'
+        '    <!-- 4 Rotors -->'
+        '    <circle cx="-22" cy="-22" r="9" fill="none" stroke="%s" stroke-width="1.5" stroke-dasharray="2 2"/>'
+        '    <circle cx="22" cy="-22" r="9" fill="none" stroke="%s" stroke-width="1.5" stroke-dasharray="2 2"/>'
+        '    <circle cx="-22" cy="22" r="9" fill="none" stroke="%s" stroke-width="1.5" stroke-dasharray="2 2"/>'
+        '    <circle cx="22" cy="22" r="9" fill="none" stroke="%s" stroke-width="1.5" stroke-dasharray="2 2"/>'
+        '  </g>'
         '</g>'
-    ) % (cx, cy, p["card"], p["border"], p["cyan"], p["green"], p["purple"], p["cyan"], p["green"], p["cyan"])
+    ) % (
+        cx, cy,
+        p["card"], p["border"],
+        p["cyan"], p["cyan"], p["purple"],
+        p["card"], p["border"], p["cyan"], p["cyan"],
+        p["card"], p["purple"],
+        p["cyan"], p["cyan"],
+        p["border"], p["purple"], p["border"], p["purple"],
+        p["purple"], p["cyan"], p["cyan"],
+        p["cyan"], p["purple"], p["card"], p["border"], p["green"],
+        p["cyan"], p["cyan"], p["purple"], p["purple"]
+    )
 
 def hero(theme, b64):
     p = PALETTES[theme]
@@ -188,17 +236,17 @@ def hero(theme, b64):
             % (W - 36))
 
     o.write(neon_avatar(146, 208, 92, p, b64))
-    o.write(drone_icon(1060, 210, p))
+    o.write(humanoid_and_drone_illustration(1055, 208, p))
 
     o.write('<text x="%d" y="98" font-family="%s" font-size="17" fill="%s" letter-spacing="1.5">'
             '<tspan fill="%s">$</tspan> whoami<tspan fill="%s">_</tspan></text>'
             % (TX, MONO, p["muted"], p["green"], p["cyan"]))
-    o.write('<text x="%d" y="176" font-family="%s" font-size="56" font-weight="800" '
+    o.write('<text x="%d" y="176" font-family="%s" font-size="52" font-weight="800" '
             'fill="url(#accent)" letter-spacing="2">%s</text>' % (TX - 2, SANS, esc(NAME)))
     o.write('<rect x="%d" y="194" width="160" height="5" rx="2.5" fill="url(#accent)"/>' % TX)
-    o.write('<text x="%d" y="246" font-family="%s" font-size="22" font-weight="600" fill="%s">%s</text>'
+    o.write('<text x="%d" y="246" font-family="%s" font-size="21" font-weight="600" fill="%s">%s</text>'
             % (TX, SANS, p["text"], esc(TAGLINE)))
-    o.write('<text x="%d" y="282" font-family="%s" font-size="15" fill="%s">%s</text>'
+    o.write('<text x="%d" y="282" font-family="%s" font-size="14.5" fill="%s">%s</text>'
             % (TX, SANS, p["muted"], esc(SUBLINE)))
 
     x = TX
@@ -213,7 +261,7 @@ def projects(theme):
     p = PALETTES[theme]
     W = 1200
     PAD, COLS = 22, 3
-    TW, TH, GX, GY = 374, 92, 16, 14
+    TW, TH, GX, GY = 374, 94, 16, 14
     HEAD_H, SEC_GAP = 40, 16
 
     y = 108
@@ -235,7 +283,7 @@ def projects(theme):
     o.write('<text x="%d" y="54" font-family="%s" font-size="28" font-weight="800" '
             'fill="url(#accent)" letter-spacing="1.5">FEATURED PROJECTS &amp; INNOVATIONS</text>' % (PAD + 12, SANS))
     o.write('<text x="%d" y="80" font-family="%s" font-size="13.5" fill="%s">'
-            '%d loyiha &#183; AI &amp; MedTech, IoT &amp; Drone, EdTech &amp; Cloud</text>'
+            '%d loyiha &#183; Humanoid Robotics, UAV Drones, AI &amp; Full-Stack</text>'
             % (PAD + 12, MONO, p["dim"], total))
     o.write('<rect x="%d" y="92" width="%d" height="1" fill="%s"/>'
             % (PAD + 12, W - 2 * (PAD + 12), p["border"]))
