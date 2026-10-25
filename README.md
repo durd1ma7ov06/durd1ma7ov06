@@ -46,11 +46,11 @@
 <h3>🏆 Official GitHub Achievements</h3>
 
 <a href="https://github.com/durd1ma7ov06?tab=achievements">
-  <img src="https://github.githubassets.com/assets/galaxy-brain-silver-2ce8da282a85.png" width="85" alt="Galaxy Brain" title="Galaxy Brain (Silver x3)" />
+  <img src="https://github.githubassets.com/assets/galaxy-brain-gold-9c2c03fd1acf.png" width="85" alt="Galaxy Brain" title="Galaxy Brain (Gold / Diamond)" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/durd1ma7ov06?tab=achievements">
-  <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="85" alt="Pull Shark" title="Pull Shark" />
+  <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="85" alt="Pull Shark" title="Pull Shark (Gold x128)" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/durd1ma7ov06?tab=achievements">
