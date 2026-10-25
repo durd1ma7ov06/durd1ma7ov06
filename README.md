@@ -39,6 +39,36 @@
 
 <br/>
 
+<!-- ===== EARNED GITHUB ACHIEVEMENTS ===== -->
+
+<div align="center">
+
+<h3>🏆 Official GitHub Achievements</h3>
+
+<a href="https://github.com/durd1ma7ov06?tab=achievements">
+  <img src="https://github.githubassets.com/assets/galaxy-brain-silver-2ce8da282a85.png" width="85" alt="Galaxy Brain" title="Galaxy Brain (Silver x3)" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/durd1ma7ov06?tab=achievements">
+  <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="85" alt="Pull Shark" title="Pull Shark" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/durd1ma7ov06?tab=achievements">
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="85" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/durd1ma7ov06?tab=achievements">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="85" alt="Quickdraw" title="Quickdraw" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/durd1ma7ov06?tab=achievements">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="85" alt="YOLO" title="YOLO" />
+</a>
+
+</div>
+
+<br/>
+
 <!-- ===== GITHUB STATS ===== -->
 
 <div align="center">
