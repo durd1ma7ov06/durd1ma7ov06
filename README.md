@@ -6,7 +6,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/light.svg">
-  <img alt="Mansur Durdimatov — Frontend & Full-Stack | Humanoid Robotics & Drone Engineer | AI Systems" src="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/dark.svg" width="100%">
+  <img alt="Mansur Durdimatov — AI/ML & Full-Stack | Humanoid Robotics & Drone Engineer | AI Systems" src="https://raw.githubusercontent.com/durd1ma7ov06/durd1ma7ov06/main/dark.svg" width="100%">
 </picture>
 
 </div>
